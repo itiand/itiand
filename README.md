@@ -6,7 +6,7 @@ I'm a full-stack web developer with a penchant for the aesthetic — rooted in m
 
 Formally educated and experienced in data analysis and quantitative research methods, my artistic inclinations also drive me towards visual storytelling. I ask way too many questions, love to tinker with the interactive and visual elements of the web, and am on a mission to make the digital realm a prettier place. ✨
 
-###🌱 I'm currently working on...
+## 🌱 I'm currently working on...
 
 - 🐘 Memory Palace App (ELIFINT) - A React app for crafting Memory Palaces, integrating OpenAI's API for mnemonics, and offering voice-guided tours for immersive learning.
   - 🧰 - Node, Express, HTML, React, SASS, TailwindCSS, OpenAI API, MongoDB
