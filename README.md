@@ -8,7 +8,7 @@ While I am formally educated and experienced in data analysis and quantitative r
 
 ## 🌱 I'm currently working on...
 
-#### 🐘 Memory Palace App (ELIFINT)
+### 🐘 Memory Palace App (ELIFINT)
 
 A React app for crafting Memory Palaces, integrating OpenAI's API to generate mnemonics and visual imagery, and offering voice-guided tours for immersive learning.
 
