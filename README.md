@@ -2,9 +2,9 @@
 
 ## 🌻👨🏽‍💻🎨🖼️📐📈
 
-I'm a full-stack web developer with a penchant for the aesthetic — rooted in my background in illustration and visual art. I find myself at the crossroads of technology, design, and human interaction.
+I'm a full-stack web developer, formally experienced and educated in data analysis and quantitative research methods. Alongside my analytical foundation, I have an innate passion in design and visual storytelling.
 
-While I am formally educated and experienced in data analysis and quantitative research methods, I've also developed a passion for design and visual storytelling. I ask way too many questions and am always exploring the interactive and visual elements of the web.
+Throughout my coding journey, I've crafted functional websites with a penchant for aesthetics, deeply rooted in my background in illustration. I take pleasure in building with an eye for detail and design. I'm innately curious and continually tinkering with interactive and visual elements of the web.
 
 ## 🌱 I'm currently working on...
 
