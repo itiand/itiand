@@ -4,7 +4,7 @@
 
 I'm a full-stack web developer, formally experienced and educated in data analysis and quantitative research methods. Alongside my analytical foundation, I have an innate passion in design and visual storytelling.
 
-Throughout my coding journey, I've crafted functional websites with a penchant for aesthetics, deeply rooted in my background in illustration. I take pleasure in building pa with an eye for detail and design. I'm innately curious and continually tinkering with interactive and visual elements of the web.
+While I prioritize human-centered design, I've developed a penchant for aesthetics that's deeply rooted in my background in illustration. I'm innately curious and continually tinkering with interactive and visual elements of the web.
 
 ## 🌱 I'm currently working on...
 
